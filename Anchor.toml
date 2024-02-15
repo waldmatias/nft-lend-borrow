@@ -7,11 +7,14 @@ skip-lint = false
 [programs.localnet]
 nft_lend_borrow = "88jfGPLRxpRZqBeBMZX2rn5qQ8igUTmHRxWGffXUdjdJ"
 
+[programs.devnet]
+nft_lend_borrow = "88jfGPLRxpRZqBeBMZX2rn5qQ8igUTmHRxWGffXUdjdJ"
+
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "Devnet"
 wallet = "/home/waldmatias/.config/solana/id.json"
 
 [scripts]
