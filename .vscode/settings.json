@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./programs/nft-lend-borrow/Cargo.toml",
+        "./programs/nft-lend-borrow/Cargo.toml",
+        "./programs/nft-lend-borrow/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
